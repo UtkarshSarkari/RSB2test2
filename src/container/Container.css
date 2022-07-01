@@ -1,0 +1,25 @@
+.Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100vh;
+}
+.One{
+    display: flex;
+    justify-content: space-evenly;
+}
+.One img{
+    height: 10rem;
+}
+.Two{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Two img{
+    height: 10rem;
+}
+.movie{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
